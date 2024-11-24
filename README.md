@@ -71,7 +71,8 @@ RegisterNumber:24900659
 
 ## Output:
 1.![Screenshot (26)](https://github.com/user-attachments/assets/df565e9e-580a-47bc-bca0-37edc6b255d9)
-2.![image](https://github.com/user-attachments/assets/8f8c733a-f868-4870-b4bb-38ce0c256e9e)
+2.![Screenshot (29)](https://github.com/user-attachments/assets/6272a52a-076a-4739-83b6-9e5c62b42043)
+
 
 
 
